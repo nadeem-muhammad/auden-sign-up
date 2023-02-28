@@ -10,5 +10,5 @@ In order to install the required packages, run `npm install` from terminal.
 
 ### Run in development
 
-To start the app in development mode, run `npm run dev` from terminal.
+Download the zipped folder and from Terminal, cd to the unzipped folder and then to start the app in development mode, run `npm run dev` from terminal.
 
